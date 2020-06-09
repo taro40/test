@@ -1,4 +1,4 @@
-## Welcome to Yu Pages
+## Welcome to Yu's Pages
 
 You can use the [editor on GitHub](https://github.com/taro40/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
